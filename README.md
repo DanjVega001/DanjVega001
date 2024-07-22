@@ -1,5 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy Daniel Vega, estudiante en tecnólogo enfocado en análisis y desarrollo de software con un interés especial en el desarrollo backend para sistemas web y aplicaciones móviles.<br><br>Mi enfoque principal ha sido aprender y aplicar habilidades técnicas para resolver problemas complejos y colaborar efectivamente en proyectos académicos. Estoy motivado por el desafío de mejorar mis habilidades continuamente y estoy entusiasmado por comenzar mi carrera profesional en un entorno donde pueda contribuir con mi entusiasmo por la tecnología y el desarrollo de software de calidad.<br><br>Mis intereses incluyen especializarme en el desarrollo web utilizando tecnologías como Laravel, PHP, Vue.js y JavaScript para crear aplicaciones robustas y escalables. Además, estoy interesado en profundizar mis conocimientos en el desarrollo de APIs y en la integración de bases de datos SQL para optimizar el rendimiento de las aplicaciones. En el ámbito móvil, me gustaría continuar explorando Android con Kotlin y Flutter con Dart para desarrollar aplicaciones móviles innovadoras y eficientes.<br><br>Estoy emocionado por explorar nuevas oportunidades y colaborar con equipos que compartan mi pasión por la innovación tecnológica. ¡Espero poder contribuir y aprender de proyectos desafiantes!
+👋 ¡Hola! Soy Daniel Vega, un estudiante tecnólogo apasionado por el desarrollo de software. Mi enfoque se centra en el backend para sistemas web y aplicaciones móviles. 
+
+Mis intereses incluyen:
+
+- Desarrollo web con Laravel, PHP, Vue.js y JavaScript.
+- Profundizar en el desarrollo de APIs y la integración de bases de datos SQL.
+- Explorar Android con Kotlin y Flutter con Dart para crear aplicaciones móviles innovadoras
 
 
 ## 🌐 Socials:
