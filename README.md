@@ -1,5 +1,5 @@
-# 💫 Sobre mí:
-👋 ¡Hola! Soy Daniel Vega, un estudiante tecnólogo apasionado por el desarrollo de software. Mi enfoque se centra en el backend para sistemas web y aplicaciones móviles. 
+# Sobre mí:
+¡Hola! Soy Daniel Vega, un estudiante tecnólogo en el desarrollo de software. Mi enfoque se centra en el backend para sistemas web y aplicaciones móviles. 
 
 Mis intereses incluyen:
 
