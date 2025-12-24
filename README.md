@@ -3,9 +3,8 @@
 
 Mis intereses incluyen:
 
-- Desarrollo web con Laravel, PHP, HTML, CSS y JavaScript.
+- Desarrollo web con Vue, Python, Django Laravel, PHP, HTML, CSS y JavaScript.
 - Profundizar en el desarrollo de APIs y la integración de bases de datos SQL.
-- Explorar Android con Kotlin y Flutter con Dart para crear aplicaciones móviles innovadoras.
 
 
 ## 🌐 Socials:
